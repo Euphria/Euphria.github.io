@@ -1,12 +1,13 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
-title = 'Who is Euphria'
+title = 'Euphria'
 theme = "hugo-theme-m10c"
 
 [params]
   author = "Euphria"
   description = "A regular master student who likes sleeping, eating, fishing, tensor networks, LLMs and computational neuroscience."
   menu_item_separator = "<br>"
+  avatar = "mao.jpg"
 
 [menu]
   [[menu.main]]
