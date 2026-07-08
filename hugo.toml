@@ -1,7 +1,6 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'Euphria'
-theme = "hugo-theme-m10c"
 
 [params]
   author = "Euphria"
