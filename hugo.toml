@@ -1,0 +1,32 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Who is Euphria'
+theme = "hugo-theme-m10c"
+
+[params]
+  author = "Euphria"
+  description = "A regular master student who likes sleeping, eating, fishing, tensor networks, LLMs and computational neuroscience."
+  menu_item_separator = "<br>"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+
+[[params.social]]
+  icon = "brand-github"
+  name = "My Github"
+  url = "https://github.com/Euphria"
+
+[params.style]
+  darkColor = "#212121"
+  lightColor = "#f5e3e0"
+  lightestColor = "#f5f5f5"
+  primaryColor = "#ffffff"
