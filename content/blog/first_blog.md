@@ -1,6 +1,6 @@
 +++
 date = '2026-07-08T13:48:25+09:00'
-draft = true
+draft = false
 title = 'First_blog'
 +++
 
