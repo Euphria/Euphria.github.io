@@ -22,7 +22,7 @@ title = 'Euphria'
   [[menu.main]]
     identifier = "cv"
     name = "CV"
-    url = "/CV.pdf"
+    url = "/cv.pdf"
     weight = 3
 
 [[params.social]]
