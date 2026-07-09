@@ -4,7 +4,7 @@ title = 'Euphria'
 
 [params]
   author = "Euphria"
-  description = "A regular master student who likes sleeping, eating, fishing, tensor networks, LLMs and computational neuroscience."
+  description = "A cat who likes sleeping, eating, fishing, playing football, and all interesting things."
   menu_item_separator = "<br>"
   avatar = "mao.jpg"
 
@@ -29,6 +29,14 @@ title = 'Euphria'
   icon = "brand-github"
   name = "My Github"
   url = "https://github.com/Euphria"
+[[params.social]]
+  icon = "brand-googlescholar"
+  name = "Google Scholar"
+  url = "https://scholar.google.com/citations?user=MFwagUQAAAAJ"
+[[params.social]]
+  icon = "mail"
+  name = "Email"
+  url = "mailto:euphria1222@gmail.com"
 
 [params.style]
   darkColor = "#212121"
