@@ -21,7 +21,7 @@ title = 'Euphria'
     weight = 2
   [[menu.main]]
     identifier = "cv"
-    name = "CV"
+    name = "My CV"
     url = "/cv.pdf"
     weight = 3
 
