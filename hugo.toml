@@ -19,6 +19,11 @@ title = 'Euphria'
     name = "Blog"
     url = "/blog/"
     weight = 2
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/CV.pdf"
+    weight = 3
 
 [[params.social]]
   icon = "brand-github"
