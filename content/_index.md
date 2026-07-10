@@ -6,17 +6,11 @@ title = ''
 
 ## About Me
 
-Hi! I'm **Dairui Chen**, a Master's student in the **Graduate School of Health Data Science** at **Juntendo University**.
+I'm **Dairui Chen** (陳代睿, チン ダイエイ), a Master's student in the **Graduate School of Health Data Science** at **Juntendo University**. I am fortunate to be advised by **Prof. Ryutaro Himeno**, **Prof. Zhe Sun**, and **[Dr. Chao Li](https://chaoliatriken.github.io/)**. My research is conducted in the **[Himeno–Sun Laboratory](https://himeno-sun-lab.github.io/)**.
 
-My current research interests include:
+My current interests lie in **Tensor Networks**, **Computational Neuroscience**, **AI Agents**, and **Machine Learning**. I aspire to become a researcher who is always curious, rigorous, and eager to learn.
 
-- Tensor Networks
-- Large Language Models (LLMs)
-- Computational Neuroscience
-- AI Agents
-- Machine Learning
-
-I'm fascinated by the intersection of machine learning, scientific computing, and neuroscience. This website serves as a place to share my research, technical notes, projects, and ideas as I continue learning.
+Outside of research, I enjoy **fishing**, **playing football**, **gaming**, **daydreaming**, and occasionally writing code. I believe that many interesting ideas come from curiosity, exploration, and a bit of imagination.
 
 ---
 
