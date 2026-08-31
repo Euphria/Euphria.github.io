@@ -9,3 +9,9 @@ hugo server -D
 hugo new content blog/test.md
 ```
 
+# push 到 github
+```
+git add .
+git commit -m 'update'
+git push
+```
