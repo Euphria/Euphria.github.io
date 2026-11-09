@@ -16,4 +16,6 @@ Outside of research, I enjoy **fishing**, **playing football**, **gaming**, **da
 
 ## Now
 
-- **Jul 2026** — Built and launched my personal website.
+- **Oct 2026** —— Presented posters at the [Digital Brain Workshop](https://digitalbrainproject.github.io/workshop2026/) and the [IBIS](https://ibisml.org/ibis2026/).
+
+- **Jul 2026** —— Built and launched my personal website.
